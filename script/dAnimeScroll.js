@@ -3,7 +3,7 @@
 // @namespace   https://github.com/chimaha
 // @match       https://animestore.docomo.ne.jp/*
 // @grant       none
-// @version     1.0.1
+// @version     1.0.2
 // @author      chimaha
 // @description dアニメストアの横スクロールを、Firefoxで使用できるようにします
 // @license     MIT license
@@ -12,7 +12,7 @@
 // @supportURL  https://github.com/chimaha/dAnimeScroll/issues
 // ==/UserScript==
 
-/*! dアニメストア 横スクロール | MIT license | https://github.com/chimaha/dAnimeScroll/blob/main/LICENSE */
+/*! dアニメストアで横スクロール | MIT license | https://github.com/chimaha/dAnimeScroll/blob/main/LICENSE */
 /*! ScrollBooster | MIT license | https://github.com/ilyashubin/scrollbooster/blob/master/LICENSE */
 
 const observer = new MutationObserver(records => {
