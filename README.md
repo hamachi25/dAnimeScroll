@@ -1,0 +1,2 @@
+# dAnimeScroll
+dアニメストアの横スクロールを、Firefoxで使用できるようにします
