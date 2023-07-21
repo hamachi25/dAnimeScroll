@@ -3,7 +3,7 @@
 // @namespace   https://github.com/chimaha
 // @match       https://animestore.docomo.ne.jp/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      chimaha
 // @description dアニメストアの横スクロールを、Firefoxで使用できるようにします
 // @license     MIT license
