@@ -7,6 +7,7 @@
 // @author      chimaha
 // @description dアニメストアの横スクロールを、Firefoxで使用できるようにします
 // @license     MIT license
+// @compatible  firefox
 // @require     https://unpkg.com/scrollbooster@2/dist/scrollbooster.min.js
 // @supportURL  https://github.com/chimaha/dAnimeScroll/issues
 // ==/UserScript==
