@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        dアニメストア 横スクロール
+// @name        dアニメストアで横スクロール
 // @namespace   https://github.com/chimaha
 // @match       https://animestore.docomo.ne.jp/*
 // @grant       none
