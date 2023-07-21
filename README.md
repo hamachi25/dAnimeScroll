@@ -3,7 +3,8 @@
 dアニメストアのアップデートにより、Firefoxではスライダーの横スクロールができなくなりました。  
 このUserScriptはScrollBoosterを使用して、横スクロールを可能にします。  
 
-https://github.com/chimaha/dAnimeScroll/assets/107383950/55317ca7-9e58-45ad-b9de-59852033676f
+
+https://github.com/chimaha/dAnimeScroll/assets/107383950/74cee0f6-e946-4e7c-aa62-4c03cea2487f
 
 
 # クレジット
