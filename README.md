@@ -1,4 +1,4 @@
-# dアニメストア 横スクロール  
+# dアニメストアで横スクロール  
 [Greasy Forkからダウンロード](https://greasyfork.org/ja/scripts/471401)  
 dアニメストアのアップデートにより、Firefoxではスライダーの横スクロールができなくなりました。  
 このUserScriptはScrollBoosterを使用して、横スクロールを可能にします。  
