@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        dアニメストアで横スクロール
-// @namespace   https://github.com/chimaha
+// @namespace   https://github.com/chimaha/dAnimeScroll
 // @match       https://animestore.docomo.ne.jp/*
 // @grant       none
-// @version     1.0.2
+// @version     1.0.3
 // @author      chimaha
 // @description dアニメストアの横スクロールを、Firefoxで使用できるようにします
 // @license     MIT license
@@ -11,7 +11,7 @@
 // @require     https://unpkg.com/scrollbooster@2/dist/scrollbooster.min.js
 // @downloadURL https://raw.githubusercontent.com/chimaha/dAnimeScroll/main/script/dAnimeScroll.js
 // @updateURL   https://raw.githubusercontent.com/chimaha/dAnimeScroll/main/script/dAnimeScroll.js
-// @supportURL  https://github.com/chimaha/dAnimePlus/issues
+// @supportURL  https://github.com/chimaha/dAnimeScroll/issues
 // ==/UserScript==
 
 /*! dアニメストアで横スクロール | MIT license | https://github.com/chimaha/dAnimeScroll/blob/main/LICENSE */
