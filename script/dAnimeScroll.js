@@ -9,7 +9,9 @@
 // @license     MIT license
 // @compatible  firefox
 // @require     https://unpkg.com/scrollbooster@2/dist/scrollbooster.min.js
-// @supportURL  https://github.com/chimaha/dAnimeScroll/issues
+// @downloadURL https://raw.githubusercontent.com/chimaha/dAnimeScroll/main/script/dAnimeScroll.js
+// @updateURL   https://raw.githubusercontent.com/chimaha/dAnimeScroll/main/script/dAnimeScroll.js
+// @supportURL  https://github.com/chimaha/dAnimePlus/issues
 // ==/UserScript==
 
 /*! dアニメストアで横スクロール | MIT license | https://github.com/chimaha/dAnimeScroll/blob/main/LICENSE */
