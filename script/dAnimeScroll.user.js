@@ -32,4 +32,3 @@ const observer = new MutationObserver(records => {
 });
 const config = { childList: true, subtree: true };
 observer.observe(document.body, config);
-setTimeout(function () { observer.disconnect() }, 1000);
